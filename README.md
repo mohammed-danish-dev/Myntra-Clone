@@ -13,10 +13,6 @@ HTML , CSS.
 - Profile is created by the user based on which he does his/her shopping and choose their products.
 - Users can search for products available online.
 
-# CONTRIBUTED BY:
-
-Aryaman Singh Fauzdar
-
 Website SS:
 
 ![WhatsApp Image 2023-03-14 at 3 59 03 AM](https://user-images.githubusercontent.com/91802408/224846917-c86d7784-c324-4f27-996b-8b77b036b5a0.jpeg)
